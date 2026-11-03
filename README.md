@@ -105,6 +105,7 @@ The queries run against the table `brsr_extraction` in `brsr_esg.db` (30 rows, o
 ## Repository contents
 
 - The Excel workbook (sheets `Company_Master` and `BRSR_Extraction`): report type and Principle 6 pages for every company, and the extracted figures
+- BRSR_Extraction_SQLReady.csv: the same data split into clean columns (flag and value separately), which the database was built from
 - `brsr_esg.db`: SQLite database (table `brsr_extraction`)
 - `dashboard_data.csv`: the data loaded into Power BI
 - `sql/`: seven query files. `01` to `06` answer the business questions, and `07` exports the data used in the dashboard
