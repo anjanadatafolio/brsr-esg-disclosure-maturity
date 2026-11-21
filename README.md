@@ -75,7 +75,7 @@ The queries run against the table `brsr_extraction` in `brsr_esg.db` (30 rows, o
 
 **Companies**
 
-- Close the single gap: Scope 3 for Reliance, Power Grid, Nestlé, Titan and Sun Pharma, and a quantified target for Kotak and ONGC. Each is one step from Level 4.
+- Close the single gap: Scope 3 for Reliance, Power Grid, Nestlé, Titan and Sun Pharma, and a quantified target for Kotak and ONGC. Each is one disclosure away from Level 4.
 - Say which Scope 3 categories are covered. ONGC reports 10 of 15 and NTPC 7 of 15, while JSW and L&T give a single figure with no categories.
 
 **Investors**
